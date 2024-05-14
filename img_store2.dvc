@@ -1,0 +1,6 @@
+outs:
+- md5: 61dd9222d375b4482611595631c9581a.dir
+  size: 4127140
+  nfiles: 2
+  hash: md5
+  path: img_store2
